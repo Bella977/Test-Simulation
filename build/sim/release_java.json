@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project 2026-Test-Kraken)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/bellachen/FRC/Test-1/2026-Test-Kraken/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "/Users/bellachen/FRC/Test-1/2026-Test-Kraken/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/bellachen/FRC/Test-1/2026-Test-Kraken/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
